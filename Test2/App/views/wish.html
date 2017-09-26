@@ -1,0 +1,29 @@
+﻿<div class="modal fade bs-example-modal-lg" id="addWish">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header modal-header-info">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title"><i class="glyphicon glyphicon-pencil"></i> Add Your Wish House</h4>
+			</div>
+			<div class="modal-body">
+				<form>
+					<div class="form-group">
+						<label for="recipient-name" class="control-label">Price Range:</label>
+						<input type="text" class="form-control" id="price-range">
+					</div>
+					<div class="form-group">
+						<label for="message-text" class="control-label">Message:</label>
+						<input type="text" class="slider form-control" value="" data-bind="sliderValue:{value: selectedV, min:100000, max: 2000000, step: 10000, tooltip: 'always'}" />
+						<p>Selected value: <b data-bind="text: myHometown">A</b></p>
+					</div>
+				</form>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				<button type="button" class="btn btn-primary" data-bind="click: post">Post</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+

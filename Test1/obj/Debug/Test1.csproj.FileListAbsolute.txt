@@ -1,0 +1,167 @@
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\csc.exe
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\System.Collections.Immutable.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\vbc.exe
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\VBCSCompiler.exe
+D:\Sam Liu\Projects\Test1\Test1\bin\roslyn\VBCSCompiler.exe.config
+D:\Sam Liu\Projects\Test1\Test1\bin\Test1.dll.config
+D:\Sam Liu\Projects\Test1\Test1\bin\Test1.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Test1.pdb
+D:\Sam Liu\Projects\Test1\Test1\bin\Antlr3.Runtime.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\EntityFramework.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\EntityFramework.SqlServer.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Google.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Web.Infrastructure.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Newtonsoft.Json.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Owin.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Net.Http.Formatting.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Helpers.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Http.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Http.Owin.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Http.WebHost.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Mvc.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Optimization.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Razor.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.WebPages.Deployment.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.WebPages.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.WebPages.Razor.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\WebGrease.dll
+D:\Sam Liu\Projects\Test1\Test1\bin\Antlr3.Runtime.pdb
+D:\Sam Liu\Projects\Test1\Test1\bin\EntityFramework.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\EntityFramework.SqlServer.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Google.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\Newtonsoft.Json.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Net.Http.Formatting.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Helpers.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Http.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Http.Owin.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Http.WebHost.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Mvc.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Optimization.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.Razor.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.WebPages.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.WebPages.Deployment.xml
+D:\Sam Liu\Projects\Test1\Test1\bin\System.Web.WebPages.Razor.xml
+D:\Sam Liu\Projects\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+D:\Sam Liu\Projects\Test1\Test1\obj\Debug\Test1.dll
+D:\Sam Liu\Projects\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\csc.exe
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\vbc.exe
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sam\Downloads\Test1\Test1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sam\Downloads\Test1\Test1\bin\Test1.dll.config
+C:\Users\Sam\Downloads\Test1\Test1\bin\Test1.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Test1.pdb
+C:\Users\Sam\Downloads\Test1\Test1\bin\Antlr3.Runtime.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\EntityFramework.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\EntityFramework.SqlServer.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Newtonsoft.Json.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Owin.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Net.Http.Formatting.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Helpers.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Http.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Http.Owin.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Http.WebHost.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Mvc.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Optimization.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Razor.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.WebPages.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\WebGrease.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Antlr3.Runtime.pdb
+C:\Users\Sam\Downloads\Test1\Test1\bin\EntityFramework.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\EntityFramework.SqlServer.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Newtonsoft.Json.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Net.Http.Formatting.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Helpers.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Http.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Http.Owin.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Http.WebHost.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Mvc.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Optimization.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.Razor.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.WebPages.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sam\Downloads\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Downloads\Test1\Test1\obj\Debug\Test1.dll
+C:\Users\Sam\Downloads\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\Sam\Downloads\Test1\Test1\bin\ApplicationInsights.config
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.Web.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.Web.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sam\Downloads\Test1\Test1\bin\Microsoft.ApplicationInsights.xml
